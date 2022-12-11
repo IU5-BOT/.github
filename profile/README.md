@@ -6,6 +6,7 @@ Owner: [Dmitriy](https://github.com/mightyK1ngRichard)
 
 
 ## My main works:
+- [GuessFriend](https://github.com/IU5-BOT/GroupGame)
 - [BMSTU-Acquaintances](https://github.com/IU5-BOT/BMSTU-Acquaintances)
 - [IU5-IT](https://github.com/IU5-IT/IU5-IT)
 - [Digital academy](https://github.com/IU5-IT/Digital-academy)
